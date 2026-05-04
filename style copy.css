@@ -1,0 +1,35 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-image: url("Fundo site.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-family: 'Exo 2', sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Exo 2', sans-serif;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    font-weight: bold;
+}
+
+#projetos img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
